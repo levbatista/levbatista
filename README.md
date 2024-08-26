@@ -1,36 +1,27 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Leverson! 
-
-  - 🌱 I’m currently studying Analysis and systems development at FATEC-Lins
-
-  - 🔭 I am looking for my first job opportunity. 
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 18 years old, currently living in Brazil. I'm taking my first steps in the programming field , enroled in the Analysis and Systems Development course. Simultaneously, I seek to improve my English, envisioning future opportunities growth, whereeach line of code written and each new word learned in English represent a significant achievement.
-
-  - ⚡ I find pleasure in the subtlety of reading, the immersion of gamings experiences, and the harmoy of music. Each of these arts enriches my journey, adding depth and meaning to the moments lived. Just as a well-read book, life unfolds in its pages, each chapter an opportunity for growth and reflection. \o/
-</details>
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levsz__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leverson-batista-28687a316/)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leverson+Batista;I'm+18+years+old;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=levbatista&show_icons=true&theme=gotham)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=levbatista&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leverson Batista github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levbatista&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!-- Links -->
+
+<div> 
+  <a href="https://www.linkedin.com/in/leverson-batista-28687a316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/levsz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+  
+</div>
+
+ 
 
 <!-- Portfolio -->
-
 
 
 <!-- GIF -->
@@ -56,3 +47,6 @@
   </div>
   
   <!-- Skills: Libraries -->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
