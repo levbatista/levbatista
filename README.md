@@ -9,6 +9,7 @@
   <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levbatista&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
 </div>
 
+ <br>
 <!-- Links -->
 
 <div> 
@@ -16,6 +17,8 @@
   <a href="https://instagram.com/levsz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
 
 <!-- Portfolio -->
 
