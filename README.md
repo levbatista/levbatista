@@ -1,7 +1,7 @@
 # 🧑‍💻 Leverson Campos
 
 
- **`Estudante (Python programmer)`**
+ **`Estudante `**
 
 Me chamo Leverson Batista Gabriel de Campos. Sou um jovem de 18 anos idade, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins. Estou sempre em busca de novos desafios que me ajudem a crescer, tanto profissional quanto pessoalmente.
 Acredito que o aprendizado contínuo é a chave para o sucesso e valorizo cada experiência como uma chance de me tornar melhor.
