@@ -11,19 +11,6 @@ Acredito que o aprendizado contínuo é essencial para o crescimento profissiona
 
 ---
 
-## 📫 Contato  
-
-<p align="left">
-   <a href="https://instagram.com/levsz__" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>
-   <a href="https://www.linkedin.com/in/leverson-batista-28687a316" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-</p>
-
----
-
 ## 🛠️ Tecnologias  
 
 Atualmente, estou desenvolvendo minhas habilidades nas seguintes tecnologias:  
