@@ -1,6 +1,3 @@
-# Leverson Batista  
-
-## **Professional Overview**  
 **`Data Analysis Student | Systems Development | Turning Data into Insight`**  
 <br>
 Hi there! I'm **Leverson Batista**, a Systems Analysis and Development student at **Fatec Lins**, passionate about uncovering insights through data.  
